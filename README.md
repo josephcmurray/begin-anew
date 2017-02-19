@@ -1,4 +1,10 @@
 # begin-anew
 Just another repository
 
-Begin, anew!
+Spring, storms.
+
+Summer, simmers.
+
+Fall, sets.
+
+Winter, slogs.
